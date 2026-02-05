@@ -1,4 +1,3 @@
-Here is the **final, clean `README.md` code only** — no explanations, no emojis, ready to paste into GitHub.
 
 ````markdown
 # Code Summarization using Seq2Seq LSTM with Attention
